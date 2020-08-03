@@ -1,7 +1,7 @@
 # mds-statistical-learning
 Repositorio de tareas y proyectos para el curso de Statistical Learning de la Maestría de Data Science
 
-## Contenido
+## Statistical Learning 1
 ### lab1-tf-linear-regression
 Tarea sobre la utilización de Tensorflow para crear un modelo de regresión lineal, acompañado de Tensorboard para visualizar el proceso de aprendizaje.
 
@@ -13,3 +13,10 @@ Laboratorio de clasificación de razas de perros utilizando KNN.
 
 ### lab4-fasion-mnist
 Regresión Logística para clasificar prendas de vestir de la librería keras de TensoFlow.
+
+## Statistical Learning 2
+### lab-clustering
+Implementación de k-means
+
+### lab2-ml2-dim-reduc
+Implementación de PCA, sin sklearn, y de t-SNE
